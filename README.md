@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋🏽, I'm Ji Hua</h1>
+<h1 align="left">Hi 👋🏽, I'm YumPasta</h1>
 
 <div align="left">
     <h2>👨🏽‍💻 About me:</h2>
@@ -50,6 +50,7 @@
 </div>
 
 <br>
+<!-- 
 <div>
     <h2>🤝🏻 Connect with Me</h2>
         <a href="https://huaj.me/"><img src="https://img.shields.io/badge/-huaj.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
@@ -58,6 +59,7 @@
         
 </div>
 <br>
+-->
 
 <!--
 <div>
